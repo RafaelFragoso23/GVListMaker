@@ -1,0 +1,7 @@
+kerberos
+ldap
+netbios-ssn
+ssh
+vnc
+snmp
+msrpc
